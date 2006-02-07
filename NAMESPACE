@@ -1,0 +1,6 @@
+export(
+sampleSize.randomized, sampleSize.matched, power.randomized, power.matched,
+power.multi)
+
+importFrom(stats, qchisq, pchisq, qnorm)
+

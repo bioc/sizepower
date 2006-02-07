@@ -1,0 +1,10 @@
+sampleSize.randomized	Sample size calculation for completely randomized 
+			treatment-control designs for microarray data	
+sampleSize.matched	Sample size calculation for matched-pairs designs for 
+			microarray data
+power.randomized	Power calculation for completely randomized 
+			treatment-control designs for microarray data
+power.matched		Power calculations for matched-pairs designs for 
+			microarray data
+power.multi		Power calculations for multiple treatments design
+			with an isolated treatment effect for microarray data
